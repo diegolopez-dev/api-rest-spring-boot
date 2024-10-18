@@ -1,0 +1,11 @@
+com\diegodev\api_rest\model\dto\ClienteDto.class
+com\diegodev\api_rest\model\payload\MensajeResponse.class
+com\diegodev\api_rest\service\IClienteService.class
+com\diegodev\api_rest\ApiRestApplication.class
+com\diegodev\api_rest\controller\ClienteController.class
+com\diegodev\api_rest\model\entity\Cliente$ClienteBuilder.class
+com\diegodev\api_rest\model\entity\Cliente.class
+com\diegodev\api_rest\model\dto\ClienteDto$ClienteDtoBuilder.class
+com\diegodev\api_rest\model\dao\ClienteDao.class
+com\diegodev\api_rest\model\payload\MensajeResponse$MensajeResponseBuilder.class
+com\diegodev\api_rest\service\impl\ClienteImplService.class

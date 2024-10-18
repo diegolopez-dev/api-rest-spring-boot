@@ -1,0 +1,8 @@
+C:\Users\Diego\Desktop\Projects\SPRING BOOT\api-rest\api-rest\src\main\java\com\diegodev\api_rest\ApiRestApplication.java
+C:\Users\Diego\Desktop\Projects\SPRING BOOT\api-rest\api-rest\src\main\java\com\diegodev\api_rest\controller\ClienteController.java
+C:\Users\Diego\Desktop\Projects\SPRING BOOT\api-rest\api-rest\src\main\java\com\diegodev\api_rest\model\dao\ClienteDao.java
+C:\Users\Diego\Desktop\Projects\SPRING BOOT\api-rest\api-rest\src\main\java\com\diegodev\api_rest\model\dto\ClienteDto.java
+C:\Users\Diego\Desktop\Projects\SPRING BOOT\api-rest\api-rest\src\main\java\com\diegodev\api_rest\model\entity\Cliente.java
+C:\Users\Diego\Desktop\Projects\SPRING BOOT\api-rest\api-rest\src\main\java\com\diegodev\api_rest\model\payload\MensajeResponse.java
+C:\Users\Diego\Desktop\Projects\SPRING BOOT\api-rest\api-rest\src\main\java\com\diegodev\api_rest\service\IClienteService.java
+C:\Users\Diego\Desktop\Projects\SPRING BOOT\api-rest\api-rest\src\main\java\com\diegodev\api_rest\service\impl\ClienteImplService.java
