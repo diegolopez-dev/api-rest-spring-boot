@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.diegodev.api_rest.ApiRestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.05 s -- in com.diegodev.api_rest.ApiRestApplicationTests
